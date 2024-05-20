@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    manusia* varManusia = new manusia("jono");
+    manusia* varManusia = new manusia("Jono:");
     delete varManusia;
     return 0;
 }
